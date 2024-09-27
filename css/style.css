@@ -147,4 +147,7 @@ font-size:  20px;
     outline: none;
    
  }
- a{color: #c5d0e6;}
+ a{
+    color: #c5d0e6;
+    text-decoration: none;
+}
